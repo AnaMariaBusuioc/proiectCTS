@@ -1,0 +1,10 @@
+#
+# Valoare initiala detinuta de casier
+#
+* soldInitial 1
+300.0
+#
+#	Cnp de validat
+#
+* cnp 1
+1234526
